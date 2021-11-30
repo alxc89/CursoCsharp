@@ -21,7 +21,8 @@ namespace CursoCsharp
                 {"Conversões - Fundamentos", Conversoes.Executar},
                 {"Operadores Aritiméticos - Fundamentos", OperadoresAritimeticos.Executar},
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
-                {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar}
+                {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores de Atribuições - Fundamentos", OperadoresAtribuicao.Executar}
 
             });
 
