@@ -1,0 +1,16 @@
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.exe
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.deps.json
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.runtimeconfig.json
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.dll
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\ref\CursoCsharp.dll
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\bin\Debug\net5.0\CursoCsharp.pdb
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.csproj.AssemblyReference.cache
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.AssemblyInfo.cs
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.dll
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\ref\CursoCsharp.dll
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.pdb
+C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\obj\Debug\net5.0\CursoCsharp.genruntimeconfig.cache

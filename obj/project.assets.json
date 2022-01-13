@@ -8,25 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/alex/.nuget/packages/": {}
+    "C:\\Users\\alexc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj",
-      "projectName": "projConsole",
-      "projectPath": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj",
-      "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/obj/",
+      "projectUniqueName": "C:\\Users\\alexc\\source\\repos\\CursoCsharp\\CursoCsharp\\CursoCsharp.csproj",
+      "projectName": "CursoCsharp",
+      "projectPath": "C:\\Users\\alexc\\source\\repos\\CursoCsharp\\CursoCsharp\\CursoCsharp.csproj",
+      "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexc\\source\\repos\\CursoCsharp\\CursoCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alex/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net5.0": {
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

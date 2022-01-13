@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TRkY7lmo6GCh/VRoTzOzaFvCZ5cgc/+UYs23HWl3i/tbp7NYlIDmAo2oZZQ+42pFq9LB87ROhHWHfVI9cIFqMw==",
+  "dgSpecHash": "kbpUyEby1tNODbqCbUqlFtQiNSH1+xEtew5v5QEzgDFF+MATcfzjuaD0ca8AE010n7UuzeacQ+oXqK7qxO+MMA==",
   "success": true,
-  "projectFilePath": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj",
+  "projectFilePath": "C:\\Users\\alexc\\source\\repos\\CursoCsharp\\CursoCsharp\\CursoCsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
