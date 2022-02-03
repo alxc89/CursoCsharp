@@ -1,0 +1,16 @@
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp.deps.json
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp.runtimeconfig.json
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp.runtimeconfig.dev.json
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp.dll
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/ref/CursoCsharp.dll
+/home/alex/Documentos/Codar/CursoCsharp/bin/Debug/net5.0/CursoCsharp.pdb
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.csproj.AssemblyReference.cache
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.AssemblyInfoInputs.cache
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.AssemblyInfo.cs
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.dll
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/ref/CursoCsharp.dll
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.pdb
+/home/alex/Documentos/Codar/CursoCsharp/obj/Debug/net5.0/CursoCsharp.genruntimeconfig.cache
