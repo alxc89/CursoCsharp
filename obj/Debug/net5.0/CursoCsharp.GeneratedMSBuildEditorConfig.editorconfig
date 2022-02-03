@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net5.0
 build_property.TargetPlatformMinVersion = 
@@ -8,3 +9,15 @@ build_property.IncludeAllContentForSelfExtract =
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CursoCsharp
 build_property.ProjectDir = /home/alex/Documentos/Codar/CursoCsharp/
+=======
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CursoCsharp
+build_property.ProjectDir = C:\Users\alexc\source\repos\CursoCsharp\CursoCsharp\
+>>>>>>> 765feb45773603810e59e06e48626b73e8b3cb14

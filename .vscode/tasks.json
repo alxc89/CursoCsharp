@@ -7,7 +7,11 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/CursoCsharp.csproj",
+=======
+                "${workspaceFolder}/projConsole/projConsole.csproj",
+>>>>>>> 765feb45773603810e59e06e48626b73e8b3cb14
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +23,11 @@
             "type": "process",
             "args": [
                 "publish",
+<<<<<<< HEAD
                 "${workspaceFolder}/CursoCsharp.csproj",
+=======
+                "${workspaceFolder}/projConsole/projConsole.csproj",
+>>>>>>> 765feb45773603810e59e06e48626b73e8b3cb14
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,8 +40,14 @@
             "args": [
                 "watch",
                 "run",
+<<<<<<< HEAD
                 "--project",
                 "${workspaceFolder}/CursoCsharp.csproj"
+=======
+                "${workspaceFolder}/projConsole/projConsole.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+>>>>>>> 765feb45773603810e59e06e48626b73e8b3cb14
             ],
             "problemMatcher": "$msCompile"
         }

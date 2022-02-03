@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "bqbxepHcyDcjRmZvUGNdTvrS9tqLIoGE9zHxBSD/BXQ5CM51i8mj9IJYHf4S1ID9bOr/i8IL2MB5c2El1aIHhA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "/home/alex/Documentos/Codar/CursoCsharp/CursoCsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ank7mNHK6La2go1L8WEhH69R1Fb0dHH7/6AHqqteP4vo5tGoh8h376yweWUTI/iR2hwoM5kUO7F5qBrfNj1lIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexc\\Source\\Repos\\CursoCsharp\\CursoCsharp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 765feb45773603810e59e06e48626b73e8b3cb14
 }
