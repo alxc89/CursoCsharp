@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/Documentos/Codar/CursoCsharp/projConsole.csproj": {}
+    "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj": {}
   },
   "projects": {
-    "/home/alex/Documentos/Codar/CursoCsharp/projConsole.csproj": {
+    "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/Documentos/Codar/CursoCsharp/projConsole.csproj",
+        "projectUniqueName": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj",
         "projectName": "projConsole",
-        "projectPath": "/home/alex/Documentos/Codar/CursoCsharp/projConsole.csproj",
+        "projectPath": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/projConsole.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/Documentos/Codar/CursoCsharp/obj/",
+        "outputPath": "/home/alex/Documentos/Codar/cod3r/CursoCsharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }
