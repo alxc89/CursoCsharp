@@ -84,11 +84,27 @@ namespace CursoCsharp.OO
 
             Ferrari carro2 = new Ferrari();
 
-            Console.WriteLine(carro1.Acelerar());
-            Console.WriteLine(carro1.Acelerar());
-            Console.WriteLine(carro1.Frear());
-            Console.WriteLine(carro1.Frear());
-            Console.WriteLine(carro1.Frear());
+            Console.WriteLine(carro2.Acelerar());
+            Console.WriteLine(carro2.Acelerar());
+            Console.WriteLine(carro2.Frear());
+            Console.WriteLine(carro2.Frear());
+            Console.WriteLine(carro2.Frear());
+
+            Console.WriteLine("Ferrari com tipo Carro...");
+            Carro carro3 = new Ferrari();
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+
+            Console.WriteLine("Uno com tipo Carro...");
+            carro3 = new Uno();//Polimorfismo 
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
         }
     }
 }
