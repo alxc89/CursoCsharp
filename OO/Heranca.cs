@@ -36,7 +36,7 @@ namespace CursoCsharp.OO
             return VelocidadeAtual;
         }
 
-        public int Acelerar()
+        public virtual int Acelerar()
         {
             return AlterarVelocidade(5);
         }
@@ -54,7 +54,18 @@ namespace CursoCsharp.OO
 
     public class Ferrari : Carro
     {
-        public Ferrari() : base(300) { }
+        public Ferrari() : base(350) { }
+
+        public override int Acelerar()
+        {
+            return AlterarVelocidade(15);
+        }
+
+        //Oculta o método da classe pai
+        public new int Frear()
+        {
+            return AlterarVelocidade(15);
+        }
     }
 
     public class Heranca
